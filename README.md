@@ -1,2 +1,3 @@
 # css-variables-with-js
-Playing with updating CSS variables via javascript
+This project was just me getting the hang of using CSS variables with javascript.
+
